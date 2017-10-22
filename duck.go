@@ -23,7 +23,4 @@ func main() {
 	var num_1 int = 200
 	fmt.Println(num_1 - num)
 
-	var foo uint64 = 89234
-	fmt.Println(foo)
-
 }
