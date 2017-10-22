@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	fmt.Println("Fuck you")
 
 	fmt.Println("60 + 10 =", 6+10)
